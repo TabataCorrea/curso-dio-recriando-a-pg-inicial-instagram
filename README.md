@@ -2,15 +2,15 @@
 
 
 
-## Prévia do Projeto desenvolvido durante curso
+## Prévia do Projeto desenvolvido durante o curso
 ![instagit](https://user-images.githubusercontent.com/96606916/175435881-cd3f1446-796e-4fc4-9f5d-71a909543eaa.png)
 
 
 
 
 ### Índice:
-- [Estrutura HTML5]
-- [Estilização CSS3]
+- [Estrutura HTML5](instagram/index.html)
+- [Estilização CSS3](instagram/style.css)
 
 
 
